@@ -86,9 +86,3 @@ esc => :wq => git status => git add . => git status => git commit -m "preference
 12) Отправить сразу 2 файла на внешний репозиторий.
 git status => git add . => git status => git commit -m "preferences and skills" => git push
 
-13) На веб интерфейсе создать файл bug_report.json.
-create new file
-14) Сделать Commit changes (сохранить) изменения на веб интерфейсе.
-15) На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
-16) Сделать Commit changes (сохранить) изменения на веб интерфейсе.
-17) Синхронизировать внешний и локальный репозиторий JSON.
